@@ -31,7 +31,10 @@ decision-making.
 - [Project Structure](#project-structure)
 - [Conclusion](#conclusion)
 - [Future Improvements](#future-improvements)
-- [Author](#author)## Dashboard Preview
+- [Author](#author)
+
+
+## Dashboard Preview
 
 ![Dashboard](notebook_images/vendor_performance_dashboard.png)
 
