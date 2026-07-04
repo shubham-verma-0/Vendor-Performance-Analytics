@@ -7,7 +7,32 @@ SQL, Python, Statistical Analysis, and Power BI. It transforms raw
 purchasing and sales data into actionable business insights for
 procurement optimization, profitability improvement, and executive
 decision-making.
+# Table of Contents
 
+- [Project Objectives](#project-objectives)
+- [Tech Stack](#tech-stack)
+- [Project Workflow](#project-workflow)
+- [Dashboard KPIs](#dashboard-kpis)
+- [Dashboard Insights](#dashboard-insights)
+- [Python Exploratory Data Analysis](#python-exploratory-data-analysis)
+  - [1. Purchase Contribution](#1-purchase-contribution-donut-chart)
+  - [2. Pareto Analysis](#2-pareto-analysis)
+  - [3. Top Vendors & Top Brands](#3-top-vendors--top-brands)
+  - [4. Correlation Heatmap](#4-correlation-heatmap)
+  - [5. Distribution Analysis](#5-distribution-analysis)
+  - [6. Outlier Analysis](#6-outlier-analysis)
+  - [7. Order Size vs Purchase Price](#7-order-size-vs-purchase-price)
+  - [8. Vendor Promotion Opportunity](#8-vendor-promotion-opportunity)
+  - [9. Confidence Interval Analysis](#9-confidence-interval-analysis)
+  - [10. Vendor Performance Comparison](#10-vendor-performance-comparison)
+- [Summary Statistics](#summary-statistics)
+- [Statistical Techniques Used](#statistical-techniques-used)
+- [Business Recommendations](#business-recommendations)
+- [Power BI Dashboard Features](#power-bi-dashboard-features)
+- [Project Structure](#project-structure)
+- [Conclusion](#conclusion)
+- [Future Improvements](#future-improvements)
+- [Author](#author)
 ## Dashboard Preview
 
 ![Dashboard](notebook_images/vendor_performance_dashboard.png)
